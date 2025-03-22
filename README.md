@@ -22,3 +22,4 @@ Pengguna dapat mengisi input form dan klik "Add" button untuk menambahkan data m
 Pada input form yang terisi oleh data mahasiswa pada tabel, pengguna dapat mengubah data tersebut dan klik "Update" button untuk mengubah data mahasiswa yang dipilih pada tabel. Jika pengguna memilih "Delete" button, maka akan muncul form untuk mengkonfirmasi aksi penghapusan, lalu data akan dihapus jika pengguna mengklik "Yes" button.
 
 # Dokumentasi
+https://github.com/user-attachments/assets/3b4e8911-f48d-4bfc-907c-a3f3a9330cbd
